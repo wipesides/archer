@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/wipesides/CLionProjects/archer/cmake-build-debug/archer_autogen",
+	"CMAKE_BINARY_DIR" : "/home/wipesides/CLionProjects/archer/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/wipesides/CLionProjects/archer/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/wipesides/CLionProjects/archer",
+	"CMAKE_SOURCE_DIR" : "/home/wipesides/CLionProjects/archer",
+	"INCLUDE_DIR" : "/home/wipesides/CLionProjects/archer/cmake-build-debug/archer_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/wipesides/CLionProjects/archer/Modern2LogIn.png",
+		"/home/wipesides/CLionProjects/archer/BrownLogIn.png",
+		"/home/wipesides/CLionProjects/archer/currencies.txt"
+	],
+	"LOCK_FILE" : "/home/wipesides/CLionProjects/archer/cmake-build-debug/CMakeFiles/archer_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/wipesides/Qt/6.5.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/wipesides/CLionProjects/archer/cmake-build-debug/CMakeFiles/archer_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/wipesides/CLionProjects/archer/resources.qrc",
+	"VERBOSITY" : 0
+}

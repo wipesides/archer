@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>Modern2LogIn.png</file>
+        <file>BrownLogIn.png</file>
+        <file>currencies.txt</file>
+    </qresource>
+</RCC>

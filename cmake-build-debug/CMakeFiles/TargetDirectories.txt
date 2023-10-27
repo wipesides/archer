@@ -1,0 +1,5 @@
+/home/wipesides/CLionProjects/archer/cmake-build-debug/CMakeFiles/archer.dir
+/home/wipesides/CLionProjects/archer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wipesides/CLionProjects/archer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wipesides/CLionProjects/archer/cmake-build-debug/CMakeFiles/archer_autogen_timestamp_deps.dir
+/home/wipesides/CLionProjects/archer/cmake-build-debug/CMakeFiles/archer_autogen.dir

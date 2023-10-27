@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "archer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "archer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-archer-Debug-f1026243f3dccc52d472.json",
+					"name" : "archer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "archer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-archer_autogen-Debug-6063a90e4f3c00384044.json",
+					"name" : "archer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "archer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-archer_autogen_timestamp_deps-Debug-7ec798162a05eb6b9889.json",
+					"name" : "archer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wipesides/CLionProjects/archer/cmake-build-debug",
+		"source" : "/home/wipesides/CLionProjects/archer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
