@@ -22,7 +22,7 @@ logInWindow::~logInWindow()
     delete ui;
 }
 void logInWindow::getData(){
-    QString url = "https://v6.exchangerate-api.com/v6/43a484f08ccbbce44ed6e450/latest/TRY";
+    QString url = "YOUR https://www.exchangerate-api.com/ API KEY";
     auto *manager = new QNetworkAccessManager();
     connect(manager,&QNetworkAccessManager::finished,[=](QNetworkReply *reply){
         QString json = reply->readAll();
